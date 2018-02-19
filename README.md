@@ -16,7 +16,5 @@
     - `<yourname>`-5.4.ipynb
 
 
-3. Complete the instructions in Code-Review to perform your review by **Monday at 2pm.**
+3. Complete the instructions in Code-Review/ to perform your review by **Monday at 2pm.**.
 
-+ Code-review/
-    - `<yourname>`-review.ipynb
